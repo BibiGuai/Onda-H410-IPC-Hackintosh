@@ -1,8 +1,10 @@
 # Onda-H410-IPC-Hackintosh
-Onda H410 IPC Hackintosh Bios&ACPI(SSDT)  
-昂达 H40 IPC 黑苹果 Bios和ACPI  
-  
+Onda H410 IPC Hackintosh Bios&ACPI(SSDT)&USBMap  
+昂达 H40 IPC 黑苹果 Bios、ACPI和USBMap  
+
+**Bios**  
 Already setup:  
+已设置：  
 Fast Boot -> Disable  
 Secure Boot -> Disable(After install can be Enabled)  
 COM Port -> Disable  
@@ -18,4 +20,18 @@ DVMT Pre-Allocated -> 64MB
 SATA Mode -> AHCI  
   
 Setup manually:  
+已设置：  
 Parallel Port -> Disable  
+  
+**ACPI**  
+SSDT-AWAC  
+SSDT-EC-USBX  
+SSDT-PLUG  
+SSDT-RHUB  
+SSDT-SBUS-MCHC  
+  
+**USBMap**  
+All USB port (with a bluetooth USB)  
+所有USB口，包括蓝牙内建USB  
+PS: For this motherboard USBMap is unnecessary  
+对于该主板USB地图非必需配置  
