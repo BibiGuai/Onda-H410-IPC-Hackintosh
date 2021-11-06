@@ -1,6 +1,6 @@
 # Onda-H410-IPC-Hackintosh
-Onda H410 IPC Hackintosh Bios  
-昂达 H40 IPC 黑苹果 Bios  
+Onda H410 IPC Hackintosh Bios&ACPI(SSDT)  
+昂达 H40 IPC 黑苹果 Bios和ACPI  
   
 Already setup:  
 Fast Boot -> Disable  
