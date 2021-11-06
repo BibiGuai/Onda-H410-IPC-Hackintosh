@@ -20,8 +20,8 @@ DVMT Pre-Allocated -> 64MB
 SATA Mode -> AHCI  
   
 Setup manually:  
-已设置：  
-Parallel Port -> Disable  
+需手动设置：  
+Parallel Port -> Disable ---- Bios > Advanced > SIOConfiguration  
   
 **ACPI**  
 SSDT-AWAC  
